@@ -115,7 +115,7 @@
         "hasAutoCalloutRun": true,
         "calloutOffsetX": 0,
         "calloutOffsetY": 0,
-        "waitingDuration": null
+        "waitingDuration": 2
       },
       "imageFile": "images/step_1787116103400_8emyy.png"
     },
@@ -2447,5 +2447,5 @@
   "reviewSubmittedAt": null,
   "versionPrefix": "v",
   "versionMajor": 1,
-  "versionMinor": 1
+  "versionMinor": 2
 }
