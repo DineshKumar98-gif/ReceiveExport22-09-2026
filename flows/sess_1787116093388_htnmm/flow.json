@@ -488,7 +488,7 @@
         "interactionId": "typing_1787116109086_e201sw3",
         "calloutOffsetX": 0,
         "calloutOffsetY": 0,
-        "waitingDuration": 3
+        "waitingDuration": null
       },
       "imageFile": "images/step_1787116115097_zpgt4.png"
     },
@@ -2449,5 +2449,5 @@
   "reviewSubmittedAt": null,
   "versionPrefix": "v",
   "versionMajor": 1,
-  "versionMinor": 4
+  "versionMinor": 3
 }
