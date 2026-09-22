@@ -258,8 +258,10 @@
         "calloutOffsetY": 0,
         "value": "",
         "key": "",
-        "waitingDuration": null,
-        "elementBounds": null
+        "waitingDuration": 3,
+        "elementBounds": null,
+        "detectionMethod": "none",
+        "needsCv": true
       },
       "imageFile": "images/step_1787124114808_7nbwx.png"
     },
@@ -2447,5 +2449,5 @@
   "reviewSubmittedAt": null,
   "versionPrefix": "v",
   "versionMajor": 1,
-  "versionMinor": 2
+  "versionMinor": 3
 }
