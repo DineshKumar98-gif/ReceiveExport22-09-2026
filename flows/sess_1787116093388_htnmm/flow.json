@@ -8,13 +8,13 @@
     {
       "id": "step_1787116103400_8emyy",
       "order": 0,
-      "title": "Right-click Pre-advise Export",
+      "title": "Click Pre-advise Export",
       "description": "",
       "notes": "",
       "appName": "navis",
       "stepType": "click",
       "instruction": "",
-      "actionType": "right_click",
+      "actionType": "left_click",
       "bgColor": "#ffffff",
       "x": null,
       "y": null,
@@ -2447,5 +2447,5 @@
   "reviewSubmittedAt": null,
   "versionPrefix": "v",
   "versionMajor": 1,
-  "versionMinor": 2
+  "versionMinor": 1
 }
